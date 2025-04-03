@@ -1,1 +1,5 @@
-test.test.
+test.
+Learn the basic workflow.
+・git add
+・git comm
+ 
